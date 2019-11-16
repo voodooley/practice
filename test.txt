@@ -1,3 +1,4 @@
-this string 1
-this string 2
-this string 3
+строка 1
+Руслан
+Иван
+some string
